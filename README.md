@@ -1,4 +1,4 @@
-# CodeAlpha-research-report-
+# CodeAlpha-research-report
 # How Virtual Internships Improve Employability
 
 **Prepared by:** Tayyaba Imtiaz  
